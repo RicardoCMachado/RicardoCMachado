@@ -1,6 +1,4 @@
-# RicardoCMachado
-
-# Ora boas! 👋  
+# Ora boas!👋  
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RicardoCMachado&theme=gotham&show_icons=true" width="420"/>
